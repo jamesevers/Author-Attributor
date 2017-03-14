@@ -1,3 +1,3 @@
 # Python Script for Authorship Attribution Project
 
-#### Jupyter Notebook detailing the pre-processing, feature engineering and classifiers for matching text with it's correct author.
+Follow along with the notes in the Jupyter Notebook to get an idea of how the model works!
